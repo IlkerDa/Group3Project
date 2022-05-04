@@ -3,7 +3,6 @@ public class TestByIlker {
         // ilker first commit
         // ilker second commit
         // ilker third commit
-        //new try
 
 
     }
